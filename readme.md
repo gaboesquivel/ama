@@ -3,10 +3,16 @@
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
 Hi I'm Gabo Esquivel.    
-I am web applications architect and JavaScript consultant.  I help companies developing custom software using lightweight agile methodologies and modern web technologies.
+I am software engineer and consultant. I help companies develop software products and make technical decisions. 
 
-Organizer of JavaScript and DevOps meetups in Costa Rica ( [@costaricajs](http://github.com/costaricajs) and [@devopscr](http://github.com/devopscr) ) and [NodeSchool in San José](http://nodeschool.io/costarica).   
-Open source enthusiast and contributor.
+I work closely with stakeholders and developers in the design and development of software applications, taking ideas from conception to production and successful execution using lightweight agile methodologies and modern web technologies.
+
+I'm a proponent of open source technology stacks, particularly those build on top of JavaScript (Node.js)
+
+Community leader and open source contributor. Organizer of JavaScript and DevOps meetups in Costa Rica ( [@costaricajs](http://github.com/costaricajs) and [@devopscr](http://github.com/devopscr) ) and [NodeSchool in San José](http://nodeschool.io/costarica).   
+
+I occasionally blog at [gaboesquivel.com](http://gaboesquivel.com) and you can find me on twitter as [@gaboesquivel](http://twitter.com/gaboesquivel)
+
 
 This AMA is a good place to ask me anything!
 
